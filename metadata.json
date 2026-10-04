@@ -1,0 +1,6 @@
+{
+  "name": "Kids Joy Learning A-Z 123",
+  "description": "Interactive gamified early learning app for kids with Alphabets, Numbers, Shapes, Colors, Animals, Fruits in English, Hindi and Marathi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
